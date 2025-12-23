@@ -6,15 +6,21 @@ A lightweight, console-based Phone Book Manager built with Python. This project 
 
 🚀**Features**
 
-Add Contacts: Quickly store names and phone numbers.
+Add Contacts: Quickly store names and phone numbers.  
+
 Search Records: Efficiently retrieve a phone number by searching for a contact's name.
+
 Update Information: Easily modify the phone number of an existing contact.
+
 Data Normalization: Automatically handles input formatting (stripping spaces and converting to lowercase) to ensure data consistency.
 
 🛠️ **Technical Highlights**
 Dictionary Management: Uses Python dict for high-performance data storage and retrieval.
+
 Modular Functions: Logic is organized into specific functions (add, read, update) for better code readability and maintenance.
+
 Clean Interface: A menu-driven system that allows users to perform multiple tasks in a single session.
+
 Input Sanitization: Uses string methods to prevent errors caused by extra spaces or mixed casing.
 
 📝 **Future Improvements**
